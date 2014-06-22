@@ -1,4 +1,6 @@
-# Coursera Getting and Cleaning Data project
+# Getting and Cleaning Data
+## Course Project
+### learn4ever, June 2014
 ===============
 
 ## Variables and data.frame objects
