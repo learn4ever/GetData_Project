@@ -1,4 +1,4 @@
-Codebook/Data Dictionary
+## Codebook/Data Dictionary
 
 ```
 Delimitor : Comma
@@ -22,9 +22,9 @@ activity :  number
     
 subject : id of the subject (number)
 ```    
-Several mean() and std() of variables corresponding to each feature and for each axis
-        [feature]-mean()-[axis]
-    or  [feature]-std()-[axis]
+Several `mean()` and `std()` of variables corresponding to each feature and for each axis, if applicable
+        `[feature]-mean()-[axis]`
+    or  `[feature]-std()-[axis]`
 
 ```    
           tBodyAcc-mean()-X
