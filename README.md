@@ -37,6 +37,7 @@ features.txt  +-----+-----------allfeatures-------------------------------------
 
 
 ## List of variables using in the script
+```
 activity_descriptions
 activity_labels
 allfeatures
@@ -59,3 +60,4 @@ x_test
 x_train
 y_test
 y_train
+```
